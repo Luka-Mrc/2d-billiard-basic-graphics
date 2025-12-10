@@ -1,0 +1,10 @@
+﻿  Physics.cpp
+  Main.cpp
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(39,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(40,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(172,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(341,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(344,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Table.cpp
+  Generating Code...
+  Kostur.vcxproj -> D:\Faks\grafika take 2\Kostur\x64\Debug\Kostur.exe
