@@ -1,10 +1,30 @@
-﻿  Physics.cpp
-  Main.cpp
-D:\Faks\grafika take 2\Kostur\Source\Main.cpp(39,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Faks\grafika take 2\Kostur\Source\Main.cpp(40,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Faks\grafika take 2\Kostur\Source\Main.cpp(172,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-D:\Faks\grafika take 2\Kostur\Source\Main.cpp(341,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Faks\grafika take 2\Kostur\Source\Main.cpp(344,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Table.cpp
-  Generating Code...
+﻿  Main.cpp
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(234,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(366,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\grafika take 2\Kostur\Source\Main.cpp(373,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+freetype26d.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype26d.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype26d.lib(ftlzw.obj)' or at ''; linking object as if no debug info
   Kostur.vcxproj -> D:\Faks\grafika take 2\Kostur\x64\Debug\Kostur.exe
